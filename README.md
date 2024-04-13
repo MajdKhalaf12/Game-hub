@@ -1,3 +1,2 @@
-git remote add origin https://github.com/MajdKhalaf12/Game-hub.git
-git branch -M main
-git push -u origin main
+##Game hub Application
+git an app view on this link https://majdkhalaf12.github.io/Game-hub/
