@@ -1,2 +1,2 @@
 ## Game hub Application
-git an app view on this link https://majdkhalaf12.github.io/Game-hub/
+Please take a look at the app by clicking on the link. https://majdkhalaf12.github.io/Game-hub/
