@@ -30,6 +30,7 @@ function MobileDrawer({ selectedGenre, onSelectedGenre }: Props) {
         icon={<RxHamburgerMenu />}
         colorScheme="Dark"
         onClick={onOpen}
+        opacity="50%"
       >
         Open
       </IconButton>
